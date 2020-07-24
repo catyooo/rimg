@@ -1,7 +1,10 @@
 # rimg
  acgimgurl 修改优化版
 
-调用地址:https://api.catyo.cn/rimg/2dyrimg.php
+2rd为二次元图
+catyo为猫鼬精选图
+ 
+二次元图调用地址:https://api.catyo.cn/rimg/2dyrimg.php
 调用参数:return=json/img
 json：返回标准json数据(图片地址)
 img：直接php显示图片不返回图片链接 ssl=true(开启https跳转)
